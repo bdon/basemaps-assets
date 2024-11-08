@@ -1,0 +1,23 @@
+{
+  "checker100px": {
+    "height": 400,
+    "pixelRatio": 2,
+    "width": 400,
+    "x": 0,
+    "y": 0
+  },
+  "checker20px": {
+    "height": 80,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 0,
+    "y": 400
+  },
+  "checker50px": {
+    "height": 200,
+    "pixelRatio": 2,
+    "width": 200,
+    "x": 400,
+    "y": 0
+  }
+}
