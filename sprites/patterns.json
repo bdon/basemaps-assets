@@ -1,23 +1,149 @@
 {
+  "beach3": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 512,
+    "y": 0
+  },
+  "bldgs5": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1224,
+    "y": 0
+  },
   "checker100px": {
     "height": 200,
     "pixelRatio": 1,
     "width": 200,
-    "x": 0,
+    "x": 1024,
     "y": 0
   },
   "checker20px": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 0,
-    "y": 200
+    "x": 1992,
+    "y": 0
   },
   "checker50px": {
     "height": 100,
     "pixelRatio": 1,
     "width": 100,
-    "x": 200,
+    "x": 1224,
+    "y": 128
+  },
+  "farm1": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 512,
+    "y": 256
+  },
+  "farmland4": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 64,
+    "x": 1024,
+    "y": 200
+  },
+  "forest1": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 512,
+    "y": 512
+  },
+  "forest2": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 512,
+    "y": 768
+  },
+  "forest5": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1352,
     "y": 0
+  },
+  "golf6": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 1992,
+    "y": 40
+  },
+  "grass1": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 768,
+    "y": 0
+  },
+  "grass2": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 768,
+    "y": 256
+  },
+  "grass3": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 768,
+    "y": 512
+  },
+  "grass5": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1480,
+    "y": 0
+  },
+  "park5": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1608,
+    "y": 0
+  },
+  "parks14": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1736,
+    "y": 0
+  },
+  "sand1": {
+    "height": 256,
+    "pixelRatio": 1,
+    "width": 256,
+    "x": 768,
+    "y": 768
+  },
+  "scrub4": {
+    "height": 128,
+    "pixelRatio": 1,
+    "width": 128,
+    "x": 1864,
+    "y": 0
+  },
+  "waves1": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 0,
+    "y": 0
+  },
+  "waves12": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 0,
+    "y": 512
   }
 }
